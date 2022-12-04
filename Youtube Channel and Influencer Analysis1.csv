@@ -1,0 +1,24 @@
+Count of Video Link,Column Labels,,,,,,
+Row Labels,No,Yes,Grand Total,,,,
+No,344,36,380,,,,
+yes,459,65,524,,,,
+Grand Total,803,101,904,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Count of Video Link,Column Labels,,,,,,
+Row Labels,Company,Female,Male,N/A,NA,(blank),Grand Total
+No,7,40,228,94,6,5,380
+yes,12,38,266,198,9,1,524
+Grand Total,19,78,494,292,15,6,904
+,,,,,,,
+,,,,,,,
+Creator Gender,Count,,,,,,
+Company,19,,,,,,
+Female,78,,,,,,
+Male,494,,,,,,
+N/A,293,,,,,,
+NA,15,,,,,,
+(blank),6,,,,,,
+Grand Total,905,,,,,,
